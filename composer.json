@@ -1,9 +1,20 @@
 {
     "name": "cakephp/app",
-    "description": "CakePHP skeleton app",
-    "homepage": "https://cakephp.org",
+    "description": "CakePHP skeleton app",   
     "type": "project",
     "license": "MIT",
+     "authors": [
+        {
+            "name": "Jonathan Castro",
+            "email": "sistemaspymesjc@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/foroworkers/foroworkers/issues",
+        "forum": "https://discord.gg/ntpz4aRHHy",
+        "wiki": "https://github.com/foroworkers/foroworkers/wiki",
+        "source": "https://github.com/foroworkers/foroworkers"
+    },
     "require": {
         "php": ">=7.4",
         "cakephp/authentication": "^2.0",
